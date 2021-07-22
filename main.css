@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+    color: #222222;
+}
+body{
+    background-color: #FFFFFF;
+}
+        /* start nav bar  */
+nav{
+    display: flex;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 89px;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+.nav-list-div{
+    display:flex;
+    margin-left: 105px;
+}
+.logo-nav-bar{
+    margin-left: 37px;
+    display: flex;
+}
+.home{
+    color:#0082F3;
+}
+
+li{
+    padding:20px
+}
+h1{
+    padding-top: 13px;
+    padding-left: 10px;
+}
+        /* end nav bar  */
+        /* start mid bar  */
+        /* start dev 1 */
+.section-1{
+    margin-left: 124px;
+}
+.countaner-1{
+    width: 465px;
+    position: relative;
+    margin: 20px 154px;
+}
+.photo1{
+    position: absolute;
+    transform: translate(47em, -9em);
+}        
+.get-instant{
+    font-size: 22px;
+    margin: 10px 0px 10px 59px;
+}
+h2{
+    margin-top: 96px;
+    margin-left: 60px;
+    font-size: 40px;
+}
+.download{
+    display: flex;
+}
+.get-google{
+    font-size: 10px;
+    transform: translate(33px, 9px);
+}
+.google-div{
+    background-color: #EEEAFF;
+}
+.sotres-color{
+    color: #582EFF;
+    transform: translate(34px, -19px);
+}  
+.apple-div{
+    width: 200px;
+    background-color: #EEEAFF;
+}
+.google-div, .apple-div{
+    margin-left: 57px;
+    width: 150px;
+    height: 49px;
+    border-radius: 5px;
+}
+.store-img{
+    padding-left: 12px;
+}
+.get-app{
+    font-size: 10px;
+    transform: translate(36px, 6px);
+}
+/* end dev 1  */
+/* start dev 2  */
+.section2{
+    margin-top:300px;
+}
+.photo2{
+    position: absolute;
+    transform: translate(18em, -2em);
+}
+
+.dev2{
+    width: 450px;
+    transform: translate(45em, 2em);
+}
+        /* end mid bar */
