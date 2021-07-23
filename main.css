@@ -49,7 +49,8 @@ h1{
         /* start mid bar  */
         /* start dev 1 */
 .section-1{
-    margin-left: 124px;
+    width: 1300px;
+    margin: 0 auto;
 }
 .countaner-1{
     width: 465px;
@@ -96,36 +97,26 @@ h2{
     font-size: 10px;
     transform: translate(36px, 6px);
 }
-@media(min-width:1600px){
-    .section-1 {
-    margin-left: 13%;
-    }
-}
+
 /* end dev 1  */
 
 
 
 /* start dev 2  */
 .section2{
-    margin-top:300px;
+    width: 1300px;
+    margin: 340px auto;
 }
 .photo2{
     position: absolute;
-    transform: translate(18em, -2em);
+    transform: translate(9em, -2em);
 }
 
 .dev2{
     width: 450px;
     transform: translate(45em, 2em);
 }
-@media(min-width:1600px){
-    .section2 {
-    margin-left: 13%;
-    }
-    .photo2{
-        transform: translate(14em, -2em);
-    }
-}
+
         /* end dve 2  */
         /* start dev 3  */
 .section3{
