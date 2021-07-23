@@ -133,9 +133,10 @@ h2{
     text-align: center;
 }
 .countaner3{
-    margin-top: 20px;
+    margin: 27px auto 0;
     display: flex;
     justify-content: space-around;
+    width: 1300px;
 }
 .set-up-acc{
     width: 272px;
@@ -182,13 +183,7 @@ h2{
 .color-green p{
     margin-top: 36px;
 }
-@media(min-width:1800px){
-    .countaner3 {
-        margin: 27px auto 0;
-        width: 1500px;
-    }
 
-}
 
         /* end dev 3 */
         /* end mid bar */
