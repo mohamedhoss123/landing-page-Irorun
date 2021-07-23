@@ -95,6 +95,11 @@ h2{
     font-size: 10px;
     transform: translate(36px, 6px);
 }
+@media(min-width:1600px){
+    .section-1 {
+    margin-left: 13%;
+    }
+}
 /* end dev 1  */
 /* start dev 2  */
 .section2{
@@ -108,5 +113,13 @@ h2{
 .dev2{
     width: 450px;
     transform: translate(45em, 2em);
+}
+@media(min-width:1600px){
+    .section2 {
+    margin-left: 13%;
+    }
+    .photo2{
+        transform: translate(14em, -2em);
+    }
 }
         /* end mid bar */
