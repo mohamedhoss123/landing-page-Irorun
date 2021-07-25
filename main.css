@@ -12,6 +12,7 @@ body{
 nav{
     display: flex;
     width: fit-content;
+    width:-moz-fit-content;
     margin-top: 20px;
     margin-left: 89px;
 }
@@ -50,6 +51,7 @@ h1{
         /* start dev 1 */
 .section-1{
     width: fit-content;
+    width:-moz-fit-content;
     margin: 0 auto;
 }
 .countaner-1{
@@ -129,6 +131,7 @@ h2{
     display: flex;
     justify-content: space-around;
     width: fit-content;
+    width:-moz-fit-content;
 }
 .set-up-acc{
     width: 272px;
