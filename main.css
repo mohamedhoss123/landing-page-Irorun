@@ -11,7 +11,7 @@ body{
         /* start nav bar  */
 nav{
     display: flex;
-    width: 50%;
+    width: fit-content;
     margin-top: 20px;
     margin-left: 89px;
 }
@@ -49,17 +49,18 @@ h1{
         /* start mid bar  */
         /* start dev 1 */
 .section-1{
-    width: 1300px;
+    width: fit-content;
     margin: 0 auto;
 }
 .countaner-1{
     width: 465px;
     position: relative;
-    margin: 20px 154px;
+    margin: 20px 281px;
+    transform: translate(-222px, 10px);
 }
 .photo1{
-    position: absolute;
-    transform: translate(47em, -9em);
+    position: absolute; 
+    transform: translate(40em, -9em);
 }        
 .get-instant{
     font-size: 22px;
@@ -104,7 +105,7 @@ h2{
 
 /* start dev 2  */
 .section2{
-    width: 1300px;
+    width: 1200px;
     margin: 340px auto;
 }
 .photo2{
@@ -127,7 +128,7 @@ h2{
     margin: 27px auto 0;
     display: flex;
     justify-content: space-around;
-    width: 1300px;
+    width: fit-content;
 }
 .set-up-acc{
     width: 272px;
